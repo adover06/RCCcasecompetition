@@ -1,3 +1,3 @@
 # RCCcasecompetition
 
-Case competition mini hackathon
+Case competition mini hackathon 
